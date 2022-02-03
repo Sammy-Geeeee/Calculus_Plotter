@@ -47,3 +47,7 @@ def main():
     
 
 main()
+
+
+# Future Improvements
+# Need to add in the Dual function options and section
